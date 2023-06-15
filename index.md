@@ -16,7 +16,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 ---
 #### [DoorDash Sales Analysis Using Excel](https://www.linkedin.com/pulse/doordash-sales-analysis-using-excel-madeeha-umar/?trackingId=w4sjOJInQvGeRytPnByHLg%3D%3D)
 [<img src="images/Main image of my project on LinkedIn.png"/>](https://www.linkedin.com/pulse/doordash-sales-analysis-using-excel-madeeha-umar/?trackingId=w4sjOJInQvGeRytPnByHLg%3D%3D)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+This analysis includes the relation between customer's income and their spending behavior. I analyzed different factors and patterns that can effect their income spent on DoorDash. I visualized the data with the help of Scatter plot, Bar Charts and Histogram.. 
 
 
 ---
