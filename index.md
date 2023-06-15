@@ -14,7 +14,7 @@ Tolulope is the best
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/doordash-sales-analysis-using-excel-madeeha-umar/?trackingId=w4sjOJInQvGeRytPnByHLg%3D%3D)
+#### [DoorDash Sales Analysis Using Excel](https://www.linkedin.com/pulse/doordash-sales-analysis-using-excel-madeeha-umar/?trackingId=w4sjOJInQvGeRytPnByHLg%3D%3D)
 [<img src="images/Main image of my project on LinkedIn.png"/>](https://www.linkedin.com/pulse/doordash-sales-analysis-using-excel-madeeha-umar/?trackingId=w4sjOJInQvGeRytPnByHLg%3D%3D)
 My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
 
