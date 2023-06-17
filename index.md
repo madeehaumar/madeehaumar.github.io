@@ -20,12 +20,12 @@ This analysis includes the relation between customer's income and their spending
 
 
 ---
-#### [Massachusettes Education Analysis](https://www.linkedin.com/pulse/massachusetts-education-analysis-tableau-madeeha-umar/)
-[<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+#### [Massachusettes Education Analysis Using Tableau](https://www.linkedin.com/pulse/massachusetts-education-analysis-tableau-madeeha-umar/)
+[<img src="Thumbnail2.png"/>](https://www.linkedin.com/pulse/massachusetts-education-analysis-tableau-madeeha-umar/)
+In this analysis I've helped education department and School administration to find out helpful insights. We found out that how different aspects effect School's graduation rates. We've analyzed using Tableau that if changes are made to inside school's strategies of having bigger or smaller classroom sizes, does it effect percentage of students who attend college each year. We found some great insights.:
+
+
+ 
 
 ---
 
