@@ -26,7 +26,7 @@ In this analysis I've helped education department and School administration to f
 
 
 --- 
-#### [Learn About Me]
+#### Learn About Me
 ---
 
 ### Category Name 2
