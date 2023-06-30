@@ -4,9 +4,9 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+#### [DoorDash Sales Analysis Using Excel](https://www.linkedin.com/pulse/doordash-sales-analysis-using-excel-madeeha-umar/?trackingId=w4sjOJInQvGeRytPnByHLg%3D%3D)
+[<img src="images/Main image of my project on LinkedIn.png"/>](https://www.linkedin.com/pulse/doordash-sales-analysis-using-excel-madeeha-umar/?trackingId=w4sjOJInQvGeRytPnByHLg%3D%3D)
+This analysis includes the relation between customer's income and their spending behavior. I analyzed different factors and patterns that can effect their income spent on DoorDash. I visualized the data with the help of Scatter plot, Bar Charts and Histogram. 
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
