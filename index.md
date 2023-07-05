@@ -14,7 +14,8 @@ This analysis includes the relation between customer's income and their spending
 In this analysis I've helped education department and School administration to find out helpful insights. We found out that how different aspects effect School's graduation rates. We've analyzed using Tableau that if changes are made to inside school's strategies of having bigger or smaller classroom sizes, does it effect percentage of students who attend college each year. We found some great insights.
 
 ---
-
+#### [World Bank Financial Analysis using SQL]()
+[<img src="images/Thumbnail2.png"/>]()
 
 
 ---
