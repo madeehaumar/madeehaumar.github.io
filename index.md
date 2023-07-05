@@ -30,7 +30,7 @@ In this analysis I've helped education department and School administration to f
 
 - [DoorDash Sales Analysis Using Excel](https://www.linkedin.com/pulse/doordash-sales-analysis-using-excel-madeeha-umar/?trackingId=w4sjOJInQvGeRytPnByHLg%3D%3D)
 - [Massachusettes Education Analysis Using Tableau](https://www.linkedin.com/pulse/massachusetts-education-analysis-tableau-madeeha-umar/)
-- [World Bank Financial Analysis with SQL](http://example.com/)
+- [World Bank Financial Analysis using SQL](https://www.linkedin.com/pulse/world-bank-financial-analysis-using-sql-madeeha-umar%3FtrackingId=z%252B67iKkMRhyF0fIH4r0Ldg%253D%253D/?trackingId=z%2B67iKkMRhyF0fIH4r0Ldg%3D%3D)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
