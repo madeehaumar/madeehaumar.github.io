@@ -15,7 +15,7 @@ In this analysis I've helped education department and School administration to f
 
 ---
 #### [World Bank Financial Analysis using SQL]()
-[<img src="SQL Project Image.png"/>]()
+[<img src="images/SQL Project Image.png"/>]()
 
 
 ---
