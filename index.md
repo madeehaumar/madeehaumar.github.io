@@ -36,6 +36,9 @@ In this analysis I've helped education department and School administration to f
 
 ---
 ### [<img src="images/doc_icon.png?raw=true"/>]
+
 ### [<img src="images/tableau_icon.png?raw=true"/>](https://public.tableau.com/app/profile/madeeha.umar)  [Tableau](https://public.tableau.com/app/profile/madeeha.umar)
+
 ### [<img src="images/linkedin_icon.png?raw=true"/>](https://www.linkedin.com/in/madeehaumar/)   [LinkedIn](https://www.linkedin.com/in/madeehaumar/)
+
 ### [<img src="images/GitHub_icon30.png?raw=true"/>](https://github.com/madeehaumar)    [GitHub](https://github.com/madeehaumar)
