@@ -35,7 +35,7 @@ In this analysis I've helped education department and School administration to f
 - [Project 5 Title](http://example.com/)
 
 ---
-
-
-
+### [<img src="images/doc_icon.png?raw=true"/>]
+### [<img src="images/tableau_icon.png?raw=true"/>](https://public.tableau.com/app/profile/madeeha.umar) [Tableau](https://public.tableau.com/app/profile/madeeha.umar)
+### [<img src="images/linkedin_icon.png?raw=true"/>](https://www.linkedin.com/in/madeehaumar/)[LinkedIn](https://www.linkedin.com/in/madeehaumar/)
 
