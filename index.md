@@ -42,4 +42,4 @@ Using SQL, we get insights about how the countries are spending loan amounts on 
 
 ### [<img src="images/linkedin_icon.png?raw=true"/>](https://www.linkedin.com/in/madeehaumar/)   [LinkedIn](https://www.linkedin.com/in/madeehaumar/)
 
-### [<img src="images/GitHub_icon30.png?raw=true"/>](https://github.com/madeehaumar)    [GitHub](https://github.com/madeehaumar)
+### [<img src="images/GitHub_icon30.png?raw=true"/>](https://github.com/madeehaumar)       [GitHub](https://github.com/madeehaumar)
