@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [DoorDash Sales Analysis Using Excel](https://www.linkedin.com/pulse/doordash-sales-analysis-using-excel-madeeha-umar/?trackingId=w4sjOJInQvGeRytPnByHLg%3D%3D)
-[<img src="images/Main image of my project on LinkedIn.png"/>](https://www.linkedin.com/pulse/doordash-sales-analysis-using-excel-madeeha-umar/?trackingId=w4sjOJInQvGeRytPnByHLg%3D%3D)
+[<img src="images/DoorDash Sales Analysis bike Gif.gif"/>](https://www.linkedin.com/pulse/doordash-sales-analysis-using-excel-madeeha-umar/?trackingId=w4sjOJInQvGeRytPnByHLg%3D%3D)
 This analysis includes the relation between customer's income and their spending behavior. I analyzed different factors and patterns that can effect their income spent on DoorDash. I visualized the data with the help of Scatter plot, Bar Charts and Histogram. 
 
 ---
