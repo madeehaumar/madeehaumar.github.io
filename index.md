@@ -2,7 +2,12 @@
 
 ---
 
+### Learn About Me
+
+---
+
 ### Learn About My Projects
+
 
 #### [World Bank Financial Analysis using SQL](https://www.linkedin.com/pulse/world-bank-financial-analysis-using-sql-madeeha-umar%3FtrackingId=z%252B67iKkMRhyF0fIH4r0Ldg%253D%253D/?trackingId=z%2B67iKkMRhyF0fIH4r0Ldg%3D%3D)
 [<img src="images/SQL Project image.png"/>](https://www.linkedin.com/pulse/world-bank-financial-analysis-using-sql-madeeha-umar%3FtrackingId=z%252B67iKkMRhyF0fIH4r0Ldg%253D%253D/?trackingId=z%2B67iKkMRhyF0fIH4r0Ldg%3D%3D)
@@ -22,6 +27,7 @@ In this analysis, I've helped the education department and School administration
 This analysis includes the relationship between customers' income and their spending behavior. I analyzed different factors and patterns that can affect their income spent on DoorDash. I visualized the data with the help of Scatter plots, Bar Charts, and histograms. 
 
 ---
+
 --- 
 
 #### Learn About Me
