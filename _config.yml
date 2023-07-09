@@ -1,8 +1,8 @@
 title: Madeeha Umar # your name (or website title) here
 logo: "/images/Portfolio pic1.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am a data analyst and I love data. My analytical skills and problem-solving nature help businesses to grow faster. 
-  With my strong communication & powerful technical skills in SQL, Tableau & Excel, I transform data into impactful insights.  <br><br>
+  I am a data analyst who loves data. With my expertise in SQL, Tableau, and Excel, I effectively communicate and solve problems by transforming data into valuable insights and enabling businesses to achieve accelerated growth.
+  <br><br>
   <a href="https://www.linkedin.com/in/madeehaumar/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
