@@ -28,10 +28,8 @@ This analysis includes the relationship between customers' income and their spen
 
 ---
 
---- 
-
-#### Learn About Me
 ---
+
 
 ### My Projects
 
