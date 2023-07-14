@@ -12,7 +12,7 @@
 #### [Healthcare Analysis Using SQL]()
 [<img src="images/Healthcare Analysis image.png"/>]()
 
-
+---
 
 #### [World Bank Financial Analysis using SQL](https://www.linkedin.com/pulse/world-bank-financial-analysis-using-sql-madeeha-umar%3FtrackingId=z%252B67iKkMRhyF0fIH4r0Ldg%253D%253D/?trackingId=z%2B67iKkMRhyF0fIH4r0Ldg%3D%3D)
 [<img src="images/SQL Project image.png"/>](https://www.linkedin.com/pulse/world-bank-financial-analysis-using-sql-madeeha-umar%3FtrackingId=z%252B67iKkMRhyF0fIH4r0Ldg%253D%253D/?trackingId=z%2B67iKkMRhyF0fIH4r0Ldg%3D%3D)
