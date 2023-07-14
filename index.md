@@ -9,11 +9,10 @@
 ### Learn About My Projects
 
 
-#### [Healthcare Analysis Using SQL]()
-[<img src="images/Healthcare Analysis image.png"/>]()
+#### [Healthcare Analysis Using SQL](https://www.linkedin.com/pulse/healthcare-analysis-using-sql-madeeha-umar/?trackingId=0fO1RW9wRay99fymqD1aJw%3D%3D)
+[<img src="images/Healthcare Analysis image.png"/>](https://www.linkedin.com/pulse/healthcare-analysis-using-sql-madeeha-umar/?trackingId=0fO1RW9wRay99fymqD1aJw%3D%3D)
 This project presents an in-depth analysis of the healthcare sector with information on patient demographics and health information.
-Gaining insights about the typical length of stay for patients, if readmission occurs within certain time frames, and the correlation between lab procedures and patient's length of stay in the hospital. With the help of SQL, we analyzed how to identify any racial bias and find the medical specialties with the greatest volume of procedures. This analysis recommends great insights to hospital administration to improve patient care strategies.
-
+Gaining insights about the typical length of stay for patients, if readmission occurs within certain time frames, and the correlation between lab procedures and patient's length of stay in the hospital. With the help of SQL, we analyzed how to identify any racial bias and find the medical specialties with the greatest volume of procedures.
 
 
 ---
