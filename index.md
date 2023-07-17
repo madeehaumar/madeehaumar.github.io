@@ -1,4 +1,5 @@
 # My Data Analytics Portfolio
+[<img src="images/Linked Banner updated.png?raw=true"/>](https://www.linkedin.com/in/madeehaumar/)
 
 ---
 
