@@ -32,4 +32,5 @@ It includes projects using different skills like 𝐄𝐱𝐜𝐞𝐥, 𝐓𝐚�
 
 
 
-<img src="images/me_craftmarket.png?raw=true"/>
+
+<p align="center"><a href="https://madeehaumar.github.io/"><img src="images/Home icon.png?raw=true"/>
