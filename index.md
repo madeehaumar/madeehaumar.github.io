@@ -69,7 +69,7 @@ This analysis includes the relationship between customers' income and their spen
 - [Project 5 Title](http://example.com/)
 
 ---
-### [<img src="images/doc_icon.png?raw=true"/>][Resume coming soon] 
+### [<img src="images/doc_icon.png?raw=true"/>](https://www.linkedin.com/in/madeehaumar/)      [Resume coming soon](https://www.linkedin.com/in/madeehaumar/) 
 
 
 ### [<img src="images/tableau_icon.png?raw=true"/>](https://public.tableau.com/app/profile/madeeha.umar)   [Tableau](https://public.tableau.com/app/profile/madeeha.umar)
