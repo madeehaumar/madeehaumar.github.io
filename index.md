@@ -1,5 +1,5 @@
 # My Data Analytics Portfolio
-[<img src="images/Portfolio banner.png?raw=true"/>](https://www.linkedin.com/in/madeehaumar/)
+[<img src="images/GitHub Portfolio Banner.png?raw=true"/>](https://www.linkedin.com/in/madeehaumar/)
 
 ---
 
