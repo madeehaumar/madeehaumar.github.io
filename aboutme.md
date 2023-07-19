@@ -21,7 +21,7 @@ My technical skills include:
 
 ◻️ **Data Visualization**
 
-🌐 Visit my 𝐃𝐚𝐭𝐚 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 https://madeehaumar.github.io/
+🌐 Visit my 𝐃𝐚𝐭𝐚 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 (https://madeehaumar.github.io/)
 
 It includes projects using different skills like 𝐄𝐱𝐜𝐞𝐥, 𝐓𝐚𝐛𝐥𝐞𝐚𝐮 and 𝐒𝐐𝐋. New projects are continuously adding to the Portfolio. These projects are enhancing my 𝐬𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐚𝐧𝐚𝐥𝐲𝐬𝐢𝐬, 𝐝𝐚𝐭𝐚 𝐯𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧, and 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠 skills.
 
