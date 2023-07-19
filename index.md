@@ -50,7 +50,7 @@ In this analysis, I've helped the education department and School administration
 
 
 #### [DoorDash Sales Analysis Using Excel](https://www.linkedin.com/pulse/doordash-sales-analysis-using-excel-madeeha-umar/?trackingId=w4sjOJInQvGeRytPnByHLg%3D%3D)
-[<img src="images/DoorDash Sales Analysis bike Gif.gif"/>](https://www.linkedin.com/pulse/doordash-sales-analysis-using-excel-madeeha-umar/?trackingId=w4sjOJInQvGeRytPnByHLg%3D%3D)
+[<img src="images/DoorDash Sales Analysis Bike GIF.gif"/>](https://www.linkedin.com/pulse/doordash-sales-analysis-using-excel-madeeha-umar/?trackingId=w4sjOJInQvGeRytPnByHLg%3D%3D)
 This analysis includes the relationship between customers' income and their spending behavior. I analyzed different factors and patterns that can affect their income spent on DoorDash. I visualized the data with the help of Scatter plots, Bar Charts, and histograms. 
 
 
