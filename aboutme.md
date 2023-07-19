@@ -7,15 +7,19 @@ I led a team of 13 employees, that tend to increase productivity by 15% and maxi
 
  🌟 I'm excited to utilize my experience in data analytics. I am ready for new challenges. I've always been drawn to "Why" in everything and I know that my analytical skills with critical thinking will serve me well in data world. I am highly motivated to research and taking new initiatives. 
 
-I am thrilled to make a career change and dive headfirst into the world of data analytics. 📊📚
+I am thrilled to make a career change and dive headfirst into the world of **Data Analytics**. 📊📚
 
 My technical skills include:
 
-◻️ SQL
-◻️ Excel
-◻️ Google Sheets
-◻️ Tableau
-◻️ Data Visualization.
+◻️ **SQL**
+
+◻️ **Excel**
+
+◻️ **Google Sheets**
+
+◻️ **Tableau**
+
+◻️ **Data Visualization**
 
 🌐 Visit my 𝐃𝐚𝐭𝐚 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 https://madeehaumar.github.io/
 
