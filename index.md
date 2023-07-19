@@ -4,7 +4,7 @@
 ---
 
 
-### Learn About Me
+### [Learn About Me](/aboutme.md)
 
 
 ---
