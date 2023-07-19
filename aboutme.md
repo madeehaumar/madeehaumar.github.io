@@ -3,7 +3,7 @@
 
 ✨ As a Graduate in Economics and an experienced E-commerce professional, I have a strong track record of 𝐚𝐧𝐚𝐥𝐲𝐳𝐢𝐧𝐠 𝐬𝐚𝐥𝐞𝐬 𝐝𝐚𝐭𝐚, where I monitored market trends. My 𝐬𝐭𝐫𝐨𝐧𝐠 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐬𝐤𝐢𝐥𝐥𝐬 helped me to built effective supplier relationships, I identified growth opportunities, managed inventory and achieved a 𝟐𝟎% increase in sales through strategic marketing campaigns.
 
-I led a team of 13 employees, that tend to increase productivity by 15% and maximized accounts ROI. I managed to provide exceptional customer service to drive revenue growth. I'm experienced working with major platforms like Amazon, Walmart, Etsy, and eBay.
+I led a team of 9 employees, that tend to increase productivity by 15% and maximized accounts ROI. I managed to provide exceptional customer service to drive revenue growth. I'm experienced working with major platforms like Amazon, Walmart, Etsy, and eBay.
 
  🌟 I'm excited to utilize my experience in data analytics. I am ready for new challenges. I've always been drawn to "Why" in everything and I know that my analytical skills with critical thinking will serve me well in data world. I am highly motivated to research and taking new initiatives. 
 
