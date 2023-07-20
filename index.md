@@ -86,4 +86,9 @@ This analysis includes the relationship between customers' income and their spen
 
 
 
+
+
+
+
+
 ### [<img src="images/GitHub_icon40.png?raw=true"/>](https://github.com/madeehaumar)             [GitHub](https://github.com/madeehaumar)
