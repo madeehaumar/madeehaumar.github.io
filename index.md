@@ -27,6 +27,9 @@
 [<img src="images/NBA analysis image.png"/>]()
 
 
+---
+
+
 #### [Healthcare Analysis Using SQL](https://www.linkedin.com/pulse/healthcare-analysis-using-sql-madeeha-umar/?trackingId=0fO1RW9wRay99fymqD1aJw%3D%3D)
 [<img src="images/Healthcare Analysis image.png"/>](https://www.linkedin.com/pulse/healthcare-analysis-using-sql-madeeha-umar/?trackingId=0fO1RW9wRay99fymqD1aJw%3D%3D)
 This project presents an in-depth analysis of the healthcare sector with information on patient demographics and health information.
