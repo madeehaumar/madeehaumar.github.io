@@ -24,7 +24,7 @@
 
 
 #### ["The Winning Playbook" NBA Teams' Performance Analysis for 2021-2022 with Tableau]()
-[<img src="images/NBA analysis image.png"/>]()
+[<img src="images/NBA analysis ball image.png"/>]()
 
 
 ---
