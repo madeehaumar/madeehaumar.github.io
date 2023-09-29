@@ -31,8 +31,8 @@ The Winning Playbook is an insightful analysis to explore the performance of NBA
 ---
 
 
-#### [Employee Attrition & Perfomance: Statistical Analysis of HR Data with R]()
-[<img src="images/HR Analytics PNG.png"/>]()
+#### [Employee Attrition & Perfomance: Statistical Analysis of HR Data with R](https://www.linkedin.com/pulse/employee-attrition-performance-statistical-analysis-ibm-madeeha-umar%3FtrackingId=sQMnJUoVRgKt%252FotpdadyEw%253D%253D/?trackingId=sQMnJUoVRgKt%2FotpdadyEw%3D%3D)
+[<img src="images/HR Analytics PNG.png"/>](https://www.linkedin.com/pulse/employee-attrition-performance-statistical-analysis-ibm-madeeha-umar%3FtrackingId=sQMnJUoVRgKt%252FotpdadyEw%253D%253D/?trackingId=sQMnJUoVRgKt%2FotpdadyEw%3D%3D)
 
 
 ---
