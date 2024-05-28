@@ -84,7 +84,7 @@ This analysis includes the relationship between customers' income and their spen
 - [The Winning Playbook" NBA Teams' Performance Analysis for 2021-2022 with Tableau](https://www.linkedin.com/pulse/winning-playbook-nba-teams-performance-analysis-2021-2022-umar/)
 
 ---
-### [<img src="images/doc_icon.png?raw=true"/>](Madeeha Umar Resume.pdf)(https://github.com/madeehaumar/madeehaumar.github.io/blob/master/images/Madeeha%20Umar%20Resume.pdf)     [Resume] 
+### [<img src="images/doc_icon.png?raw=true"/>](Madeeha Umar Resume.pdf)       [Resume](Madeeha Umar Resume.pdf)
 
 
 ### [<img src="images/tableau_icon.png?raw=true"/>](https://public.tableau.com/app/profile/madeeha.umar)   [Tableau](https://public.tableau.com/app/profile/madeeha.umar)
