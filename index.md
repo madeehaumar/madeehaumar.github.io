@@ -57,8 +57,7 @@ Using SQL, we get insights into how the countries are spending loan amounts on d
 
 #### [Massachusettes Education Analysis Using Tableau](https://www.linkedin.com/pulse/massachusetts-education-analysis-tableau-madeeha-umar/)
 [<img src="images/Thumbnail2.png"/>](https://www.linkedin.com/pulse/massachusetts-education-analysis-tableau-madeeha-umar/)
-In this analysis, I've helped the education department and School administration to find out helpful insights. We found out how different aspects affect School's graduation rates. We've analyzed using Tableau that if changes are made to inside school's strategies of having bigger or smaller classroom sizes, does it affect the percentage of students who attend college each year? We found some great insights.
-
+In this analysis, I assisted the education department and school administration in uncovering insights on factors affecting graduation rates. Using Tableau, we examined how changes in classroom sizes impact the percentage of students attending college each year, yielding valuable findings.
 
 ---
 
