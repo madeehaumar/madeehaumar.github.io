@@ -40,8 +40,7 @@ The Winning Playbook is an insightful analysis to explore the performance of NBA
 
 #### [Healthcare Analysis Using SQL](https://www.linkedin.com/pulse/healthcare-analysis-using-sql-madeeha-umar/?trackingId=0fO1RW9wRay99fymqD1aJw%3D%3D)
 [<img src="images/Healthcare Analysis image.png"/>](https://www.linkedin.com/pulse/healthcare-analysis-using-sql-madeeha-umar/?trackingId=0fO1RW9wRay99fymqD1aJw%3D%3D)
-This project presents an in-depth analysis of the healthcare sector with information on patient demographics and health information.
-Gaining insights about the typical length of stay for patients, if readmission occurs within certain time frames, and the correlation between lab procedures and patient's length of stay in the hospital. With the help of SQL, we analyzed how to identify any racial bias and find the medical specialties with the greatest volume of procedures.
+This project provides an in-depth analysis of the healthcare sector, focusing on patient demographics and health information. It examines the typical length of stay, readmission rates, and the correlation between lab procedures and hospitalization duration. Using SQL, we identify racial biases and determine which medical specialties have the highest procedure volumes.
 
 
 ---
