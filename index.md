@@ -25,7 +25,7 @@
 
 #### ["The Winning Playbook" NBA Teams' Performance Analysis for 2021-2022 with Tableau](https://www.linkedin.com/pulse/winning-playbook-nba-teams-performance-analysis-2021-2022-umar/)
 [<img src="images/NBA analysis ball image.png"/>](https://www.linkedin.com/pulse/winning-playbook-nba-teams-performance-analysis-2021-2022-umar/)
-The Winning Playbook is an insightful analysis to explore the performance of NBA teams during the 2021-2022 season. We'll use Tableau to visualize & explore the performance of different basketball teams, and players in a variety of factors, including wins and losses, offensive and defensive efficiency, and individual players' statistics on having the most assists at different positions.
+The Winning Playbook is a detailed analysis of NBA team performance in the 2021-2022 season. Using Tableau, we visualized and explored various factors such as wins and losses, offensive and defensive efficiency. We analyzed individual player statistics like assists across different positions.
 
 
 ---
