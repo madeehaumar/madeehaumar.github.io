@@ -33,7 +33,7 @@ The Winning Playbook is a detailed analysis of NBA team performance in the 2021-
 
 #### [Employee Attrition & Perfomance: Statistical Analysis of HR Data with R](https://www.linkedin.com/pulse/employee-attrition-performance-statistical-analysis-ibm-madeeha-umar%3FtrackingId=sQMnJUoVRgKt%252FotpdadyEw%253D%253D/?trackingId=sQMnJUoVRgKt%2FotpdadyEw%3D%3D)
 [<img src="images/HR Analytics PNG.png"/>](https://www.linkedin.com/pulse/employee-attrition-performance-statistical-analysis-ibm-madeeha-umar%3FtrackingId=sQMnJUoVRgKt%252FotpdadyEw%253D%253D/?trackingId=sQMnJUoVRgKt%2FotpdadyEw%3D%3D)
-In this project, I utilized R to analyze people analytics and extracted valuable insights from HR data. I investigated the impact of various factors on employee attrition, from identifying patterns to optimizing recruitment strategies for data-driven decision-making. I created scatter plots for correlations, conducted hypothesis testing, and constructed linear regression models.
+In this project, I utilized R to analyze HR data, uncovered insights into employee attrition, and optimized recruitment strategies through data-driven decision-making. I created scatter plots for correlations, conducted hypothesis testing, and constructed linear regression models.
 
 
 ---
