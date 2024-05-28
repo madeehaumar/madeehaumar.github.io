@@ -48,8 +48,7 @@ This project provides an in-depth analysis of the healthcare sector, focusing on
 
 #### [World Bank Financial Analysis using SQL](https://www.linkedin.com/pulse/world-bank-financial-analysis-using-sql-madeeha-umar%3FtrackingId=z%252B67iKkMRhyF0fIH4r0Ldg%253D%253D/?trackingId=z%2B67iKkMRhyF0fIH4r0Ldg%3D%3D)
 [<img src="images/SQL Project image.png"/>](https://www.linkedin.com/pulse/world-bank-financial-analysis-using-sql-madeeha-umar%3FtrackingId=z%252B67iKkMRhyF0fIH4r0Ldg%253D%253D/?trackingId=z%2B67iKkMRhyF0fIH4r0Ldg%3D%3D)
-This project shares insights into different countries' transactions in borrowing loans from the World Bank. We will analyze the countries that have borrowed the most loans and how much they owe to IDA.
-Using SQL, we get insights into how the countries are spending loan amounts on different ongoing projects and whether they are paying back these loans to IDA.
+This project provides insights into different countries' borrowing transactions with the World Bank. We examined which countries have borrowed the most and their indebtedness to IDA. Using SQL, we analyzed how these countries allocated loan funds to ongoing projects and their repayment status to IDA.
 
 
 ---
