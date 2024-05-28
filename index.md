@@ -95,7 +95,7 @@ This analysis includes the relationship between customers' income and their spen
 
 
 
-### [<img src="images/linkedin_icon.png?raw=true"/>](https://www.linkedin.com/in/madeehaumar/)                                     [LinkedIn](https://www.linkedin.com/in/madeehaumar/)
+### [<img src="images/linkedin_icon.png?raw=true"/>](https://www.linkedin.com/in/madeehaumar/)                                       [LinkedIn](https://www.linkedin.com/in/madeehaumar/)
 
 
 
